@@ -1,0 +1,6 @@
+C:\Users\Sofia\Documents\projects\Puzzle\Puzzle\bin\Debug\Puzzle.exe.config
+C:\Users\Sofia\Documents\projects\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+C:\Users\Sofia\Documents\projects\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+C:\Users\Sofia\Documents\projects\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+C:\Users\Sofia\Documents\projects\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
+C:\Users\Sofia\Documents\projects\Puzzle\Puzzle\obj\Debug\Puzzle.csprojResolveAssemblyReference.cache
